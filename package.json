@@ -1,0 +1,71 @@
+{
+  "name": "example_react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@codeparticle/react-sidenav": "^0.4.0",
+    "@material-ui/icons": "latest",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "ag-grid-react": "^22.1.1",
+    "antd": "^3.26.8",
+    "material-table": "^1.57.1",
+    "material-ui": "^0.20.2",
+    "mdbreact": "^4.25.1",
+    "primereact": "^3.4.0",
+    "ra-data-json-server": "^3.2.0",
+    "ra-data-simple-rest": "^3.1.0",
+    "ra-input-rich-text": "^3.2.0",
+    "react": "^16.12.0",
+    "react-admin": "^3.2.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-bootstrap4-form-validation": "^1.0.10",
+    "react-burger-menu": "^2.6.13",
+    "react-crud-table": "0.0.8",
+    "react-dom": "^16.12.0",
+    "react-redux": "^7.1.0-rc.1",
+    "react-router": "latest",
+    "react-scripts": "3.3.1",
+    "react-sidebar": "^3.0.2",
+    "react-sider": "^0.4.1",
+    "rsuite": "^4.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@material-ui/core": "^4.9.1",
+    "@trendmicro/react-sidenav": "^0.5.0",
+    "axios": "^0.19.2",
+    "formik": "^2.1.4",
+    "mui-datatables": "^2.14.0",
+    "react-bootstrap-sidebar": "0.0.1",
+    "react-data-grid": "^7.0.0-alpha.24",
+    "react-data-table-component": "^6.2.3",
+    "react-metismenu": "^1.4.0",
+    "react-responsive-menubar": "^1.0.1",
+    "react-router-dom": "^5.1.2",
+    "react-search-input": "^0.11.3",
+    "react-simple-sidenav": "^1.0.1",
+    "semantic-ui-react": "^0.88.2"
+  }
+}
